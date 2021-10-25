@@ -25,7 +25,7 @@
     "@mapbox/node-pre-gyp": "^1.0.1",
     "@open-wa/wa-automate": "^4.17.1",
     "app-root-path": "^3.0.0",
-    "axios": "^0.21.1",
+    "axios": "^0.24.0",
     "bent": "^7.3.12",
     "canvacord": "^5.1.0",
     "chalk": "^4.1.0",
